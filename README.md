@@ -1,7 +1,9 @@
 # hugo-docker
-An alpine docker image with a hugo binary.
+An alpine docker image with a [hugo](https://gohugo.io/) binary.
 
 Accessible at https://hub.docker.com/r/ameypar/hugo-alpine
+
+The `hugo` binary is available at `/go/bin/hugo`.
 
 # Building
 ```
